@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.spt.oss.mysql.connector.java.plus" type="repository">
+    <properties maven-id="com.github.spt-oss:mysql-connector-java-plus:0.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/spt-oss/mysql-connector-java-plus/0.1.0/mysql-connector-java-plus-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
